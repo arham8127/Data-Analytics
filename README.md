@@ -88,11 +88,11 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ## Future Improvements
-Add more real-world datasets
-Deploy dashboards and ML models
-Automate data pipelines
-Integrate with cloud platforms
+- Add more real-world datasets
+- Deploy dashboards and ML models
+- Automate data pipelines
+- Integrate with cloud platforms
 
 ## Author
-Arham Ali
-Zealous Data Engineer | Data Analytics Enthusiast
+- Arham Ali
+- Zealous Data Engineer | Data Analytics Enthusiast
